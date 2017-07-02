@@ -5,3 +5,5 @@ Install package: forecast
 Install package: fpp
 
 Install package: quantmod
+
+install package: rugarch
