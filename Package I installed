@@ -1,9 +1,19 @@
-Install package: TTR
+Install package: TTR - dependencies ‘xts’, ‘zoo’
 
-Install package: forecast
+Install package: forecast - dependencies ‘stringi’, ‘curl’, ‘stringr’, 
+                            ‘RColorBrewer’, ‘dichromat’, ‘munsell’, 
+                            ‘labeling’, ‘rlang’, ‘quadprog’, ‘quantmod’, 
+                            ‘digest’, ‘gtable’, ‘plyr’, ‘reshape2’, ‘scales’, 
+                            ‘tibble’, ‘lazyeval’, ‘tseries’, ‘fracdiff’, ‘Rcpp’, 
+                            ‘colorspace’, ‘ggplot2’, ‘magrittr’, ‘lmtest’, ‘timeDate’, 
+                            ‘RcppArmadillo
 
-Install package: fpp
+Install package: fpp - dependencies ‘fma’, ‘expsmooth’
 
 Install package: quantmod
 
-install package: rugarch
+install package: rugarch - dependencies ‘yaml’, ‘evaluate’, ‘highr’, ‘markdown’, ‘httpuv’, 
+                            ‘mime’, ‘xtable’, ‘R6’, ‘sourcetools’, ‘htmlwidgets’, ‘htmltools’, 
+                            ‘knitr’, ‘jsonlite’, ‘shiny’, ‘truncnorm’, ‘FNN’, ‘misc3d’, ‘multicool’, 
+                            ‘mvtnorm’, ‘rgl’, ‘DistributionUtils’, ‘GeneralizedHyperbolic’, ‘RUnit’, 
+                            ‘Rsolnp’, ‘nloptr’, ‘ks’, ‘numDeriv’, ‘spd’, ‘chron’, ‘SkewHyperbolic’, ‘expm’
